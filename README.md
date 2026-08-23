@@ -9,7 +9,7 @@ Repositorio oficial con los materiales, códigos interactivos y simulaciones par
 * **Institución:** FES Acatlán, UNAM  
 
 ---
-## Análisis numérico en Ecuaciones Diferenciales Aordinarias
+## Análisis numérico en Ecuaciones Diferenciales Ordinarias
 ## 📌 Método de Euler (Ecuaciones Diferenciales Ordinarias)
 
 El **Método de Euler** es un procedimiento de integración numérica de primer orden para resolver ecuaciones diferenciales ordinarias (EDO) a partir de un valor inicial dado.

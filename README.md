@@ -39,3 +39,7 @@ Para ejecutar estos códigos localmente necesitas **Julia** y el paquete de visu
 ```julia
 using Pkg
 Pkg.add("Plots")
+
+---
+
+## 📌 dkdkdkdk
